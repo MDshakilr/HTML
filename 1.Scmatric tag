@@ -1,0 +1,91 @@
+<!DOCTYPE html> 
+<html >
+<head>
+   
+</head>
+<body>
+  Hello  Bangladesh
+  <h1>hello BAngladesh</h1>
+  <h2>hello BAngladesh</h2>
+  <h3>hello BAngladesh</h3>
+  <h4>hello BAngladesh</h4>
+  <h5>hello BAngladesh</h5>
+  <h6>hello BAngladesh</h6>
+
+  <p> this is my first para</p>
+
+
+
+  <a href ="http://www.google.com">click here</a>
+
+
+  <Ul> 
+    <li>Maggi</li>
+    <li>mango</li>
+    <li>egg</li>
+</Ul>
+
+<ol> 
+    <li>Maggi</li>
+    <li>mango</li>
+    <li>egg</li>
+</ol>
+
+
+
+
+<table>
+
+<tr>
+    <td>sr no.</td>
+    <td>name</td>
+    <td>roll</td>
+</tr>
+</table>
+
+
+<table>
+
+    <tr>
+        <td>1</td>
+        <td>shakil</td>
+        <td>5</td>
+    </tr>
+    </table>
+
+
+    <table>
+
+        <tr>
+            <td>1</td>
+            <td>sakila</td>
+            <td>5</td>
+        </tr>
+        </table>
+        
+
+<table>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>9</td>
+        <td>0</td>
+    </tr>
+</table>
+
+
+
+<img src="https://www.google.com/imgres?q=tiger&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FWalking_tiger_female.jpg%2F1200px-Walking_tiger_female.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTiger&docid=JtjBCCbgPo3-vM&tbnid=vN_LdoOTnfRozM&vet=12ahUKEwiA4JzXw8KIAxVTxTgGHapzM2QQM3oECBYQAA..i&w=1200&h=662&hcb=2&ved=2ahUKEwiA4JzXw8KIAxVTxTgGHapzM2QQM3oECBYQAA" alt="tiger" >
+
+
+</body>
+</html>
