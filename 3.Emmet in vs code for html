@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+    
+   
+
+    <!-- p{hi bagladesh} -->
+     <p>hi bangladesh</p>
+
+
+     <!--- p# ID-->
+     <p id="ID"></p>
+     
+     <!--- p.dog-->
+     <p class="dog"></p>
+
+     <!-- section + article-->
+      <section></section>
+      <artic></artic>
+
+      <!---- p>p>p--- nested -->
+      <p>
+        <p>
+            <p></p>
+        </p>
+      </p>
+
+
+<div style="background-color: antiquewhite;">i am srtudent</div>
+<div style="background-color: antiquewhite;">i am srtudent</div>
+
+
+<span style="background-color: azure;"> i am student</span>
+<span style="background-color: azure;"> i am student</span>
+
+<p style="background-color: aliceblue;">i am student</p>
+<p style="background-color: aliceblue;">i am student</p>
+
+
+
+<!--ul>(li>p)*3--->
+<ul>
+    <li>
+        <p><a href="http://www.google.com">click </a></p>
+    </li>
+    <li>
+        <p><a href="http://www.google.com">click</a></p>
+    </li>
+    <li>
+        <p><a href="http://www.google.com">click</a></p>
+    </li>
+</ul>
+
+
+</body>
+</html>
