@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+
+
+    <h1 style="background-color:aqua;"> hi bangladesh</h1>
+    <h1 style="color:aqua;"> hi bangladesh</h1>
+
+
+
+
+    <p>This <b>course</b> course is far <i>better</i> better than many paid courses and bhaiya's 
+        way of teaching is top notch. 
+        I have completed whole <s>vedio</s>video in 1.5
+         days and believe me <u>this</u>this is best>(the best)*100.</p>
+         
+
+         <p>
+            2<sup >4</sup>
+         </p>
+
+
+         <p>
+            o<sub >2</sub>
+         </p>
+
+<p>i am shakil. <br/>iam a student </p>
+
+
+<pre>i 
+    am
+    student
+</pre>
+
+</body>
+</html>
