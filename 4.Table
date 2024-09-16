@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>1</h1>
+    <table border="2">
+
+
+<thead>
+
+    <th>Student No</th>
+    <th>Student name</th>
+    <th>roll</th>
+</thead>
+<tbody>
+<tr>
+    <td>1234</td>
+    <td>shakil</td>
+    <td>5</td>
+    </tr>
+    <tr>
+        <td>3456</td>
+        <td>sakib</td>
+        <td>7</td>
+        </tr>
+        <tr>
+            <td>99</td>
+            <td>jisan</td>
+            <td>9</td>
+            </tr>
+</tbody>
+    
+    </table>
+
+
+<h1>2</h1>
+    <table border="2">
+
+
+        <thead>
+        
+            <th>Student No</th>
+            <th>Student name</th>
+            <th>roll</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1234</td>
+            <td>shakil</td>
+            <td rowspan="3">5</td>
+            </tr>
+            <tr>
+                <td>3456</td>
+                <td>sakib</td>
+                
+                </tr>
+                <tr>
+                    <td>99</td>
+                    <td>jisan</td>
+                    
+                    </tr>
+        </tbody>
+            
+            </table>
+
+
+            <h1>3</h1>
+            <table border="2">
+        
+        
+        <thead>
+        
+            <th>Student No</th>
+            <th>Student name</th>
+            <th>roll</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1234</td>
+            <td colspan="2">shakil</td>
+            
+            </tr>
+            <tr>
+                <td>3456</td>
+                <td>sakib</td>
+                <td>7</td>
+                </tr>
+                <tr>
+                    <td colspan="2">99</td>
+                    <td>jisan</td>
+                    
+                    </tr>
+        </tbody>
+            
+            </table>
+
+
+<h1>4</h1>
+<table border="2">
+<thead>
+
+
+    <th>A</th>
+    <th>B</th>
+    <th>C</th>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"></td>
+<td>E</td>
+<td>F</td>
+</tr>
+
+<tr>
+
+    <td>a</td>
+    <td>b</td>
+</tr>
+</tbody>
+
+<tfoot>
+    <tr>
+        <td colspan="3"></td>
+    </tr>
+    </tfoot>
+</table>
+        
+</body>
+</html>
